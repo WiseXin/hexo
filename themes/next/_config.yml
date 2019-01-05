@@ -91,7 +91,7 @@ footer:
   # http://www.miitbeian.gov.cn
   beian:
     enable: true
-    icp: 浙ICP备17060189号
+    icp: # 浙ICP备17060189号
 
   # -------------------------------------------------------------
   # Any custom text can be defined here.
@@ -175,8 +175,8 @@ site_state: true
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
 social:
-  GitHub: https://github.com/linhay || github
-  E-Mail: mailto:is.linhay@outlook.com || envelope
+  GitHub: https://github.com/WiseXin || github
+  #E-Mail: mailto:is.linhay@outlook.com || envelope
   #Weibo: https://weibo.com/yourname || weibo
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
@@ -502,7 +502,7 @@ pangu: false
 #swiftype_key:
 
 # Baidu Analytics ID
-baidu_analytics: a90a941a96aa248110ca135fa8973872
+# baidu_analytics: a90a941a96aa248110ca135fa8973872
 
 # Growingio Analytics ID
 # Copyright 2015-2018 GrowingIO, Inc. More info available at http://www.growingio.com
@@ -511,7 +511,7 @@ baidu_analytics: a90a941a96aa248110ca135fa8973872
 # Disqus
 disqus:
   enable: true
-  shortname: linhey
+  shortname: ""
   count: true
   lazyload: false
 
@@ -693,7 +693,7 @@ busuanzi_count:
 
 
 # Tencent analytics ID
-tencent_analytics: 66118396
+# tencent_analytics: 66118396
 
 # Tencent MTA ID
 # tencent_mta:
