@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 四方
+title: 岑岑梓州
 subtitle:
 avatar: https://tvax3.sinaimg.cn/crop.0.0.736.736.180/658781b8ly8fppmy43m4gj20kg0kgt9u.jpg
 description: 一亩三分.
-author: 四方
+author: WiseXin
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://www.linhey.com
+url: http://134.175.25.227:9000
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
